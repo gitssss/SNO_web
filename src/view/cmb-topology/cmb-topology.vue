@@ -2,7 +2,7 @@
   <div>
     <div class="topology-header-bar pane header-pane">
       <Breadcrumb class="p-title primary pl4 w400 fl" :style="{fontSize: `${fontSize}px`}">
-        CMB TOPOLOGY
+        CMB TOPOLOGY1111111111111111111111
       </Breadcrumb>
       <div class="search-input fl">
         <!--
